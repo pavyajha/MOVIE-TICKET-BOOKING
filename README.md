@@ -29,8 +29,15 @@ Open a terminal in the project folder and run:
 
 ```bash
 python3 main.py
+'''
 
-'''MOVIE-TICKET-BOOKING/
+# Project Structure
+
+```text
+MOVIE-TICKET-BOOKING/
 └── main.py
-## Author
-Pavya Jha
+'''
+
+# Project Submitted by
+
+PAVYA JHA
